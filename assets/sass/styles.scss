@@ -12,6 +12,7 @@ $position-values: map-merge($map1: $custom_position-values, $map2: $position-val
 @import "./../partials/hero-banner";
 @import "./../partials/explore_course";
 @import "./../partials/our-success";
+@import "./../partials/testimonial";
 
 @import './../../node_modules/bootstrap/scss/bootstrap.scss';
 

@@ -11,6 +11,7 @@
         display: grid;
         place-items: center;
         transform: rotate(-10deg);
+        transition: all 0.3s ease;
 
         &:hover {
             width: 400px;
